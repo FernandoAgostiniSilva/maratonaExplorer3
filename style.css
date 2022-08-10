@@ -8,6 +8,21 @@
     background-color: #FFEDD5; /* hex: 0-F */
     font-family: 'Roboto', sans-serif;
   }
+
+  body:before {
+    display: block;
+    position: absolute;
+    content: '';
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 135vh;
+    z-index: 1;
+    opacity: 0.1;
+    background-image: url("https://img.freepik.com/fotos-premium/cardapio-do-restaurante-vista-superior-do-menu-em-madeira-sobre-a-mesa-de-madeira-rustica-com-acessorios_70216-8831.jpg?");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
   
   ul {
     list-style: none;
