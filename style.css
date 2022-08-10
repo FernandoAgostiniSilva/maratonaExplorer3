@@ -10,19 +10,19 @@
   }
 
   body:before {
-    display: block;
+    display: flex;
     position: absolute;
     content: '';
     left: 0;
     top: 0;
-    width: 100vw;
-    height: 135vh;
+    width: 100%;
+    height: 140%;
     z-index: 1;
     opacity: 0.2;
     background-image: url("https://i.pinimg.com/736x/bb/79/dc/bb79dc2a09df287a66a1dfdf436a37ab.jpg");
     background-repeat: no-repeat;
-    background-position: 50% 0%;
     background-size: cover;
+    background-position: absolute;
   }
   
   ul {
