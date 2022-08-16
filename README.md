@@ -1,4 +1,4 @@
-# maratona-explorer-3
+# Projeto RocketCoffee
 
 HTML
 ## O que é HTML?
