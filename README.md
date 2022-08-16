@@ -1,4 +1,10 @@
-# Projeto RocketCoffee
+<h1 align="center">
+ Projeto RocketCoffee
+</h1>
+
+<br>
+
+![ProjetoFinal](https://github.com/FernandoAgostiniSilva/maratonaExplorer3/blob/main/assets/projetoRocketCoffee.png)
 
 HTML
 ## O que é HTML?
